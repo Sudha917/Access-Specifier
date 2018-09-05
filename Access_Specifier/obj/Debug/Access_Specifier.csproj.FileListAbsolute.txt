@@ -1,0 +1,10 @@
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\bin\Debug\Access_Specifier.exe.config
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\bin\Debug\Access_Specifier.exe
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\bin\Debug\Access_Specifier.pdb
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\obj\Debug\Access_Specifier.csproj.CoreCompileInputs.cache
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\obj\Debug\Access_Specifier.exe
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\obj\Debug\Access_Specifier.pdb
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\bin\Debug\intcldll.dll
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\bin\Debug\intcldll.pdb
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\obj\Debug\Access_Specifier.csproj.CopyComplete
+G:\.net traing\Assignments\Day04\Access_Specifier\Access_Specifier\obj\Debug\Access_Specifier.csprojAssemblyReference.cache
